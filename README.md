@@ -2,7 +2,7 @@
 
 This API allows you to create multiple lightmaps "atmospheres" for the same scene and switch between them in runtime dynamically, or you can make multiple environments as dynamic gameobjects where you can enable, disable or instantiate it at runtime and switch between the previously baked lightmaps "atmospheres" for these environments when needed.
 
-[![Video](https://img.youtube.com/vi/lF64g4dd0mw/0.jpg)](https://www.youtube.com/watch?v=lF64g4dd0mw)
+[![Video](https://img.youtube.com/vi/lF64g4dd0mw/hqdefault.jpg)](https://www.youtube.com/watch?v=lF64g4dd0mw)
 
 ## How to use this API
 
