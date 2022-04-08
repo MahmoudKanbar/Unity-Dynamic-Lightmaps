@@ -2,7 +2,7 @@
 
 This API allows you to create multiple lightmaps "atmospheres" for the same scene and switch between them in runtime dynamically, or you can make multiple environments as dynamic gameobjects where you can enable, disable or instantiate it at runtime and switch between the previously baked lightmaps "atmospheres" for these environments when needed.
 
-[![Video](https://img.youtube.com/vi/lF64g4dd0mw/0.jpg)](https://www.youtube.com/watch?v=lF64g4dd0mw)
+[![Video](https://img.youtube.com/vi/lF64g4dd0mw/hqdefault.jpg)](https://www.youtube.com/watch?v=lF64g4dd0mw)
 
 ## How to use this API
 
@@ -19,4 +19,4 @@ This API allows you to create multiple lightmaps "atmospheres" for the same scen
 
 This API support Light Probes inside Unity, But **DO NOT CHANGE THE LIGHT PROBES POSITIONS AFTER THE BAKING IS FINISHED** because Unity doesn't support changing light probes positions after baking is done and you can only change the probes positions using the editor **it's write protected**, also changing light probes positions or loading and combining them in load scene additive mode require Unity to perform a heavy operation called [Tetrahedralize](https://docs.unity3d.com/ScriptReference/LightProbes.Tetrahedralize.html)
 
-So you have to keep the light probes fixed in the scene and place them with respect to all the environment/atmospheres you wan't to use.
+So you have to keep the light probes fixed in the scene and place them with respect to all the environment/atmospheres you want to use.
