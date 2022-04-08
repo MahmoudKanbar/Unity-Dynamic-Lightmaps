@@ -6,8 +6,6 @@ This API allows you to create multiple lightmaps "atmospheres" for the same scen
 https://user-images.githubusercontent.com/39844467/162445968-db07a4fa-41e8-4416-a8b2-e68aacabd6be.mp4
 
 
-[![Video](https://img.youtube.com/vi/lF64g4dd0mw/hqdefault.jpg)](https://www.youtube.com/watch?v=lF64g4dd0mw)
-
 ## How to use this API
 
     1. create the environment you want inside the scene as static gameobjects
