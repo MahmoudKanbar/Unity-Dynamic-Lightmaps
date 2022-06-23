@@ -21,7 +21,7 @@ https://user-images.githubusercontent.com/39844467/162445968-db07a4fa-41e8-4416-
 ![image](https://user-images.githubusercontent.com/39844467/175179700-0c4adf9a-3547-4dd1-8dc7-b90f05efbcc3.png)
 #### *7. if you open the manager gameobject you will find the Manager component which take care of LightStates and the environments we made previously.*
 ![image](https://user-images.githubusercontent.com/39844467/175179859-350bedf2-6f3c-4f86-81ee-95e9e463e039.png)
-#### *8. if you wish you could bake the lightmap for the scen when it's empty to make a clean switch to the light states when the game starts.*
+#### *8. if you wish you could bake the lightmap for the scene when it's empty to make a clean switch to the light states when the game starts.*
 ![image](https://user-images.githubusercontent.com/39844467/175180921-3fcb7917-e1b9-4ee7-add5-ba6fc974e161.png)
     
 
